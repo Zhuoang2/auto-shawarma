@@ -27,7 +27,7 @@ carton_upgrade: int = 3
 - 2=点击盛薯条
 - 3=自动盛薯条'''
 
-package_upgrade: int = 1
+package_upgrade: int = 2
 '''包装机升级
 - 0=手动包装
 - 1=点击包装
@@ -57,7 +57,7 @@ juice: int = 1
 kibbeh: int = 1
 '''克比解锁'''
 
-drink_upgrade: int = 1
+drink_upgrade: int = 2
 '''可乐机解锁升级
 - 0=未解锁
 - 1=普通速度
